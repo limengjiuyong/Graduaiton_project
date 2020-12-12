@@ -1,5 +1,9 @@
 package com.example.demo.enity;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+
 public class student {
   
 	private String name;
